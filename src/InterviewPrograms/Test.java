@@ -27,6 +27,14 @@ public class Test {
 		   // if(entry.getKey()==target)
 		   
                 System.out.println(entry.getKey() + " = " + entry.getValue());
+            System.out.println("First Changes");
+            System.out.println("Second Changes");
+            System.out.println("Third Changes");
+            System.out.println("Fourth Changes");
+
+
+
+		    
 		}
 		
 	}}
